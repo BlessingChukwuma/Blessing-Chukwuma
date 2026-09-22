@@ -183,6 +183,9 @@ I'm open to connecting with cybersecurity professionals, technology communities,
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/(https://www.linkedin.com/in/blessing-chukwuma)style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+</a>
   </a>
   <a href="mailto:YOUR_EMAIL_ADDRESS">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
