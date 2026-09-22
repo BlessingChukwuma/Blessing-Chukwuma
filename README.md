@@ -197,7 +197,7 @@ I'm open to connecting with cybersecurity professionals, technology communities,
 
 ---
 
-## 🔐 Closing Statement
+## 🔐 Closing Statement 
 
 **Building skills. Creating projects. Securing technology. Sharing knowledge.**
 
