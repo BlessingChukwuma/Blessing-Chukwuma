@@ -1,4 +1,4 @@
-# Blessing Chukwuma
+# Blessing Chukwuma 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BlessingChukwuma/Blessing-Chukwuma/main/ChatGPT%20Image%20Sep%2022%2C%202026%2C%2008_07_38%20AM.png" alt="Blessing Chukwuma Cybersecurity Profile Banner" width="100%">
@@ -14,9 +14,9 @@
 
 ---
 
-## 👋 Introduction
+## 👋 Introduction 
 
-I'm **Blessing Chukwuma**, a cybersecurity professional in training with a growing focus on **SOC Analysis, security analysis, Linux, and practical cybersecurity**.
+I'm **Blessing Chukwuma**, a cybersecurity professional in training with a growing focus on **SOC Analysis, security analysis, Linux, and practical cybersecurity**. 
 
 I am building my skills through hands-on labs, continuous learning, security research, and practical projects while developing a professional presence within the cybersecurity and technology community.
 
