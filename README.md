@@ -182,7 +182,7 @@ I'm open to connecting with cybersecurity professionals, technology communities,
     <img src="https://img.shields.io/badge/GitHub-BlessingChukwuma-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/https://www.linkedin.com/in/blessing-chukwumastyle=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/(https://www.linkedin.com/in/blessing-chukwuma)style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:YOUR_EMAIL_ADDRESS">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
